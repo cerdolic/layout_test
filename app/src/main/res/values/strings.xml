@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test Task</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="info_for_user">Информация для пользователя</string>
+    <string name="photo_avatar">Фото, аватар</string>
+    <string name="registration_documents">Регистрационные документы</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="repeat_password">Пароль повторно</string>
+</resources>
